@@ -16,7 +16,7 @@ function HomepageHeader() {
     <div className="homepage-header">
       <div className="container">
         <div className="title-with-logo">
-          <img src="/img/docusaurus.png" alt="TinyFrameJS Logo" className="header-logo" />
+          <img src="/img/tiny2.png" alt="TinyFrameJS Logo" className="header-logo" />
           <h1>{siteConfig.title}</h1>
         </div>
         <p className="subtitle">{siteConfig.tagline}</p>
