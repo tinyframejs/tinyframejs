@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://tinyframejs.org',
+  url: 'https://tinyframejs.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/tinyframejs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'AlphaQuantJS', // Usually your GitHub org/user name.
+  organizationName: 'tinyframejs', // Usually your GitHub org/user name.
   projectName: 'tinyframejs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/AlphaQuantJS/tinyframejs/edit/main/docs/',
+            'https://github.com/tinyframejs/tinyframejs/edit/main/',
         },
         blog: false,
         theme: {
@@ -89,7 +89,7 @@ const config = {
             label: 'Release Notes',
           },
           {
-            href: 'https://github.com/AlphaQuantJS/tinyframejs',
+            href: 'https://github.com/tinyframejs/tinyframejs',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub repository',
@@ -144,7 +144,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/AlphaQuantJS/tinyframejs',
+                href: 'https://github.com/tinyframejs/tinyframejs',
               },
               {
                 label: 'Release Notes',
@@ -152,7 +152,7 @@ const config = {
               },
               {
                 label: 'Contribute',
-                href: 'https://github.com/AlphaQuantJS/tinyframejs/blob/main/CONTRIBUTING.md',
+                href: 'https://github.com/tinyframejs/tinyframejs/blob/main/CONTRIBUTING.md',
               },
             ],
           },
