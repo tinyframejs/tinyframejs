@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/readExcel",
+  "title": "readExcel",
+  "description": "tinyframejs",
+  "source": "@site/docs/api/functions/readExcel.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/readExcel",
+  "permalink": "/tinyframejs/docs/api/functions/readExcel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/api/functions/readExcel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

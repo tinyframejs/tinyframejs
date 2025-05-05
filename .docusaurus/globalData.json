@@ -1,0 +1,222 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/tinyframejs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/tinyframejs/docs",
+          "mainDocId": "getting-started",
+          "docs": [
+            {
+              "id": "api/classes/DataFrame",
+              "path": "/tinyframejs/docs/api/classes/DataFrame"
+            },
+            {
+              "id": "api/functions/apiToFrame",
+              "path": "/tinyframejs/docs/api/functions/apiToFrame"
+            },
+            {
+              "id": "api/functions/arrayToFrame",
+              "path": "/tinyframejs/docs/api/functions/arrayToFrame"
+            },
+            {
+              "id": "api/functions/cloneFrame",
+              "path": "/tinyframejs/docs/api/functions/cloneFrame"
+            },
+            {
+              "id": "api/functions/count",
+              "path": "/tinyframejs/docs/api/functions/count"
+            },
+            {
+              "id": "api/functions/createFrame",
+              "path": "/tinyframejs/docs/api/functions/createFrame"
+            },
+            {
+              "id": "api/functions/first",
+              "path": "/tinyframejs/docs/api/functions/first"
+            },
+            {
+              "id": "api/functions/jsonToFrame",
+              "path": "/tinyframejs/docs/api/functions/jsonToFrame"
+            },
+            {
+              "id": "api/functions/mean",
+              "path": "/tinyframejs/docs/api/functions/mean"
+            },
+            {
+              "id": "api/functions/readCsv",
+              "path": "/tinyframejs/docs/api/functions/readCsv"
+            },
+            {
+              "id": "api/functions/readExcel",
+              "path": "/tinyframejs/docs/api/functions/readExcel"
+            },
+            {
+              "id": "api/functions/readJson",
+              "path": "/tinyframejs/docs/api/functions/readJson"
+            },
+            {
+              "id": "api/functions/readSql",
+              "path": "/tinyframejs/docs/api/functions/readSql"
+            },
+            {
+              "id": "api/functions/readTsv",
+              "path": "/tinyframejs/docs/api/functions/readTsv"
+            },
+            {
+              "id": "api/functions/sort",
+              "path": "/tinyframejs/docs/api/functions/sort"
+            },
+            {
+              "id": "api/functions/validateColumn",
+              "path": "/tinyframejs/docs/api/functions/validateColumn"
+            },
+            {
+              "id": "api/functions/validateColumnLengths",
+              "path": "/tinyframejs/docs/api/functions/validateColumnLengths"
+            },
+            {
+              "id": "api/functions/validateColumnNames",
+              "path": "/tinyframejs/docs/api/functions/validateColumnNames"
+            },
+            {
+              "id": "api/functions/validateDType",
+              "path": "/tinyframejs/docs/api/functions/validateDType"
+            },
+            {
+              "id": "api/functions/validateInputData",
+              "path": "/tinyframejs/docs/api/functions/validateInputData"
+            },
+            {
+              "id": "api/functions/validateNumericArray",
+              "path": "/tinyframejs/docs/api/functions/validateNumericArray"
+            },
+            {
+              "id": "api/functions/validateOptions",
+              "path": "/tinyframejs/docs/api/functions/validateOptions"
+            },
+            {
+              "id": "api/README",
+              "path": "/tinyframejs/docs/api/"
+            },
+            {
+              "id": "getting-started",
+              "path": "/tinyframejs/docs/getting-started",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/community-next-steps",
+              "path": "/tinyframejs/docs/getting-started/community-next-steps",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/comparison/other-js-libraries",
+              "path": "/tinyframejs/docs/getting-started/comparison/other-js-libraries",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/comparison/r",
+              "path": "/tinyframejs/docs/getting-started/comparison/r",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/comparison/spreadsheets",
+              "path": "/tinyframejs/docs/getting-started/comparison/spreadsheets",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/comparison/sql",
+              "path": "/tinyframejs/docs/getting-started/comparison/sql",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/installation",
+              "path": "/tinyframejs/docs/getting-started/installation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/package-overview",
+              "path": "/tinyframejs/docs/getting-started/package-overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/combining-tables",
+              "path": "/tinyframejs/docs/getting-started/tutorials/combining-tables",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/dataframe-basics",
+              "path": "/tinyframejs/docs/getting-started/tutorials/dataframe-basics",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/derived-columns",
+              "path": "/tinyframejs/docs/getting-started/tutorials/derived-columns",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/filtering",
+              "path": "/tinyframejs/docs/getting-started/tutorials/filtering",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/io",
+              "path": "/tinyframejs/docs/getting-started/tutorials/io",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/plotting",
+              "path": "/tinyframejs/docs/getting-started/tutorials/plotting",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/reshaping",
+              "path": "/tinyframejs/docs/getting-started/tutorials/reshaping",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/statistics",
+              "path": "/tinyframejs/docs/getting-started/tutorials/statistics",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/text-processing",
+              "path": "/tinyframejs/docs/getting-started/tutorials/text-processing",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/time-series",
+              "path": "/tinyframejs/docs/getting-started/tutorials/time-series",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro",
+              "path": "/tinyframejs/docs/intro"
+            },
+            {
+              "id": "release-notes",
+              "path": "/tinyframejs/docs/release-notes"
+            },
+            {
+              "id": "user-guide",
+              "path": "/tinyframejs/docs/user-guide"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/tinyframejs/docs/getting-started",
+                "label": "Getting Started"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

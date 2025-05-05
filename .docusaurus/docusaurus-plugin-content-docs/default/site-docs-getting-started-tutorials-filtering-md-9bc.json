@@ -1,0 +1,30 @@
+{
+  "id": "getting-started/tutorials/filtering",
+  "title": "How do I select a subset of a table?",
+  "description": "Learn how to filter rows and select columns in TinyFrameJS",
+  "source": "@site/docs/getting-started/tutorials/filtering.md",
+  "sourceDirName": "getting-started/tutorials",
+  "slug": "/getting-started/tutorials/filtering",
+  "permalink": "/tinyframejs/docs/getting-started/tutorials/filtering",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/getting-started/tutorials/filtering.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "filtering",
+    "title": "How do I select a subset of a table?",
+    "sidebar_position": 3,
+    "description": "Learn how to filter rows and select columns in TinyFrameJS"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How do I read and write tabular data?",
+    "permalink": "/tinyframejs/docs/getting-started/tutorials/io"
+  },
+  "next": {
+    "title": "How to create plots in TinyFrameJS?",
+    "permalink": "/tinyframejs/docs/getting-started/tutorials/plotting"
+  }
+}

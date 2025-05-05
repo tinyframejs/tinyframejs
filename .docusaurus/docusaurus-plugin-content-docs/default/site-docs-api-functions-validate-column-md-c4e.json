@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/validateColumn",
+  "title": "validateColumn",
+  "description": "tinyframejs",
+  "source": "@site/docs/api/functions/validateColumn.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/validateColumn",
+  "permalink": "/tinyframejs/docs/api/functions/validateColumn",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/api/functions/validateColumn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

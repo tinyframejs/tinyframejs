@@ -1,0 +1,30 @@
+{
+  "id": "getting-started/comparison/other-js-libraries",
+  "title": "Comparison with Other JavaScript Libraries",
+  "description": "Compare TinyFrameJS with other JavaScript data manipulation libraries",
+  "source": "@site/docs/getting-started/comparison/other-js-libraries.md",
+  "sourceDirName": "getting-started/comparison",
+  "slug": "/getting-started/comparison/other-js-libraries",
+  "permalink": "/tinyframejs/docs/getting-started/comparison/other-js-libraries",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/getting-started/comparison/other-js-libraries.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "other-js-libraries",
+    "title": "Comparison with Other JavaScript Libraries",
+    "sidebar_position": 4,
+    "description": "Compare TinyFrameJS with other JavaScript data manipulation libraries"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Comparison with Spreadsheets",
+    "permalink": "/tinyframejs/docs/getting-started/comparison/spreadsheets"
+  },
+  "next": {
+    "title": "Community & Next Steps",
+    "permalink": "/tinyframejs/docs/getting-started/community-next-steps"
+  }
+}

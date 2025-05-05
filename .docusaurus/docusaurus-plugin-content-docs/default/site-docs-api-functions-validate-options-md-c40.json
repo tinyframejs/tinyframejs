@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/validateOptions",
+  "title": "validateOptions",
+  "description": "tinyframejs",
+  "source": "@site/docs/api/functions/validateOptions.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/validateOptions",
+  "permalink": "/tinyframejs/docs/api/functions/validateOptions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/api/functions/validateOptions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
