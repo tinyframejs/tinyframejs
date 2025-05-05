@@ -1,8 +1,0 @@
-{
-    "entryPoints": ["../TinyFrameJS/src/index.js"],
-    "entryPointStrategy": "resolve",
-    "tsconfig": "../TinyFrameJS/tsconfig.json",
-    "out": "docs/api",
-    "plugin": ["typedoc-plugin-markdown"],
-    "readme": "none"
-}

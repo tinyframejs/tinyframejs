@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/mean",
+  "title": "mean",
+  "description": "tinyframejs",
+  "source": "@site/docs/api/functions/mean.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/mean",
+  "permalink": "/tinyframejs/docs/api/functions/mean",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/api/functions/mean.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,234 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/docs-230": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-bec": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-574": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/api/-8b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-982-4ca"
+  },
+  "/docs/api/classes/DataFrame-03c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-classes-data-framef-55-473"
+  },
+  "/docs/api/functions/apiToFrame-fca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-api-to-framebfd-fb0"
+  },
+  "/docs/api/functions/arrayToFrame-72a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-array-to-framea-72-b73"
+  },
+  "/docs/api/functions/cloneFrame-e87": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-clone-frame-49-e-232"
+  },
+  "/docs/api/functions/count-264": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-counta-7-e-62c"
+  },
+  "/docs/api/functions/createFrame-5c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-create-framec-15-d61"
+  },
+  "/docs/api/functions/first-e2c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-first-022-700"
+  },
+  "/docs/api/functions/jsonToFrame-43c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-json-to-frame-516-8ab"
+  },
+  "/docs/api/functions/mean-f71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-mean-93-d-094"
+  },
+  "/docs/api/functions/readCsv-224": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-read-csv-31-a-115"
+  },
+  "/docs/api/functions/readExcel-547": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-read-excel-96-f-988"
+  },
+  "/docs/api/functions/readJson-718": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-read-json-28-d-c42"
+  },
+  "/docs/api/functions/readSql-7b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-read-sql-529-061"
+  },
+  "/docs/api/functions/readTsv-9f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-read-tsv-0-bc-ccc"
+  },
+  "/docs/api/functions/sort-05b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-sort-8-f-7-35c"
+  },
+  "/docs/api/functions/validateColumn-daa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-validate-columnc-4-e-3d3"
+  },
+  "/docs/api/functions/validateColumnLengths-2e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-validate-column-lengths-758-a56"
+  },
+  "/docs/api/functions/validateColumnNames-ada": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-validate-column-names-6-ee-6f4"
+  },
+  "/docs/api/functions/validateDType-17e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-validate-d-type-09-e-c21"
+  },
+  "/docs/api/functions/validateInputData-7dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-validate-input-data-428-c9f"
+  },
+  "/docs/api/functions/validateNumericArray-c08": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-validate-numeric-arrayf-3-e-dce"
+  },
+  "/docs/api/functions/validateOptions-d06": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-functions-validate-optionsc-40-20c"
+  },
+  "/docs/getting-started-565": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-startedd-58-f94"
+  },
+  "/docs/getting-started/community-next-steps-ea5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-community-next-steps-4-a-1-e3d"
+  },
+  "/docs/getting-started/comparison/other-js-libraries-e80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-comparison-other-js-libraries-016-9cc"
+  },
+  "/docs/getting-started/comparison/r-ba3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-comparison-rafc-575"
+  },
+  "/docs/getting-started/comparison/spreadsheets-5eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-comparison-spreadsheetsf-76-242"
+  },
+  "/docs/getting-started/comparison/sql-c5e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-comparison-sql-8-c-1-9ce"
+  },
+  "/docs/getting-started/installation-71d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-installation-54-f-18d"
+  },
+  "/docs/getting-started/package-overview-b64": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-package-overviewb-71-c46"
+  },
+  "/docs/getting-started/tutorials/combining-tables-341": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-tutorials-combining-tables-808-fc1"
+  },
+  "/docs/getting-started/tutorials/dataframe-basics-d43": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-tutorials-dataframe-basicsa-7-f-ceb"
+  },
+  "/docs/getting-started/tutorials/derived-columns-d07": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-tutorials-derived-columns-821-d50"
+  },
+  "/docs/getting-started/tutorials/filtering-f8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-tutorials-filtering-9-bc-f83"
+  },
+  "/docs/getting-started/tutorials/io-1d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-tutorials-ioe-33-ad8"
+  },
+  "/docs/getting-started/tutorials/plotting-5ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-tutorials-plotting-885-73d"
+  },
+  "/docs/getting-started/tutorials/reshaping-afd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-tutorials-reshaping-2-aa-ea3"
+  },
+  "/docs/getting-started/tutorials/statistics-c7a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-tutorials-statistics-626-d6c"
+  },
+  "/docs/getting-started/tutorials/text-processing-3ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-tutorials-text-processingb-9-f-0d2"
+  },
+  "/docs/getting-started/tutorials/time-series-c45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-tutorials-time-seriese-08-3bc"
+  },
+  "/docs/intro-853": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/release-notes-f7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-release-notesa-55-b08"
+  },
+  "/docs/user-guide-9fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-guide-1-db-ca9"
+  }
+}
