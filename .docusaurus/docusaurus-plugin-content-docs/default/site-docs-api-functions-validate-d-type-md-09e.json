@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/validateDType",
+  "title": "validateDType",
+  "description": "tinyframejs",
+  "source": "@site/docs/api/functions/validateDType.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/validateDType",
+  "permalink": "/docs/api/functions/validateDType",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/api/functions/validateDType.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

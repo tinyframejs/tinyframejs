@@ -1,0 +1,30 @@
+{
+  "id": "getting-started/tutorials/statistics",
+  "title": "How to calculate summary statistics",
+  "description": "Learn how to calculate and analyze summary statistics in TinyFrameJS",
+  "source": "@site/docs/getting-started/tutorials/statistics.md",
+  "sourceDirName": "getting-started/tutorials",
+  "slug": "/getting-started/tutorials/statistics",
+  "permalink": "/docs/getting-started/tutorials/statistics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/getting-started/tutorials/statistics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "statistics",
+    "title": "How to calculate summary statistics",
+    "sidebar_position": 6,
+    "description": "Learn how to calculate and analyze summary statistics in TinyFrameJS"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to create new columns derived from existing columns",
+    "permalink": "/docs/getting-started/tutorials/derived-columns"
+  },
+  "next": {
+    "title": "How to reshape the layout of tables",
+    "permalink": "/docs/getting-started/tutorials/reshaping"
+  }
+}

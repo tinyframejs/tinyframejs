@@ -1,0 +1,26 @@
+{
+  "id": "getting-started",
+  "title": "Getting started",
+  "description": "Install TinyFrameJS, see quick examples, explore tutorials and compare it with other data‑frame libraries.",
+  "source": "@site/docs/getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/getting-started",
+  "permalink": "/docs/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "getting-started",
+    "sidebar_position": 1,
+    "title": "Getting started",
+    "description": "Install TinyFrameJS, see quick examples, explore tutorials and compare it with other data‑frame libraries."
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Installation",
+    "permalink": "/docs/getting-started/installation"
+  }
+}

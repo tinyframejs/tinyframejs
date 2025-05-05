@@ -1,0 +1,222 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "getting-started",
+          "docs": [
+            {
+              "id": "api/classes/DataFrame",
+              "path": "/docs/api/classes/DataFrame"
+            },
+            {
+              "id": "api/functions/apiToFrame",
+              "path": "/docs/api/functions/apiToFrame"
+            },
+            {
+              "id": "api/functions/arrayToFrame",
+              "path": "/docs/api/functions/arrayToFrame"
+            },
+            {
+              "id": "api/functions/cloneFrame",
+              "path": "/docs/api/functions/cloneFrame"
+            },
+            {
+              "id": "api/functions/count",
+              "path": "/docs/api/functions/count"
+            },
+            {
+              "id": "api/functions/createFrame",
+              "path": "/docs/api/functions/createFrame"
+            },
+            {
+              "id": "api/functions/first",
+              "path": "/docs/api/functions/first"
+            },
+            {
+              "id": "api/functions/jsonToFrame",
+              "path": "/docs/api/functions/jsonToFrame"
+            },
+            {
+              "id": "api/functions/mean",
+              "path": "/docs/api/functions/mean"
+            },
+            {
+              "id": "api/functions/readCsv",
+              "path": "/docs/api/functions/readCsv"
+            },
+            {
+              "id": "api/functions/readExcel",
+              "path": "/docs/api/functions/readExcel"
+            },
+            {
+              "id": "api/functions/readJson",
+              "path": "/docs/api/functions/readJson"
+            },
+            {
+              "id": "api/functions/readSql",
+              "path": "/docs/api/functions/readSql"
+            },
+            {
+              "id": "api/functions/readTsv",
+              "path": "/docs/api/functions/readTsv"
+            },
+            {
+              "id": "api/functions/sort",
+              "path": "/docs/api/functions/sort"
+            },
+            {
+              "id": "api/functions/validateColumn",
+              "path": "/docs/api/functions/validateColumn"
+            },
+            {
+              "id": "api/functions/validateColumnLengths",
+              "path": "/docs/api/functions/validateColumnLengths"
+            },
+            {
+              "id": "api/functions/validateColumnNames",
+              "path": "/docs/api/functions/validateColumnNames"
+            },
+            {
+              "id": "api/functions/validateDType",
+              "path": "/docs/api/functions/validateDType"
+            },
+            {
+              "id": "api/functions/validateInputData",
+              "path": "/docs/api/functions/validateInputData"
+            },
+            {
+              "id": "api/functions/validateNumericArray",
+              "path": "/docs/api/functions/validateNumericArray"
+            },
+            {
+              "id": "api/functions/validateOptions",
+              "path": "/docs/api/functions/validateOptions"
+            },
+            {
+              "id": "api/README",
+              "path": "/docs/api/"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/getting-started",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/community-next-steps",
+              "path": "/docs/getting-started/community-next-steps",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/comparison/other-js-libraries",
+              "path": "/docs/getting-started/comparison/other-js-libraries",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/comparison/r",
+              "path": "/docs/getting-started/comparison/r",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/comparison/spreadsheets",
+              "path": "/docs/getting-started/comparison/spreadsheets",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/comparison/sql",
+              "path": "/docs/getting-started/comparison/sql",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/installation",
+              "path": "/docs/getting-started/installation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/package-overview",
+              "path": "/docs/getting-started/package-overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/combining-tables",
+              "path": "/docs/getting-started/tutorials/combining-tables",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/dataframe-basics",
+              "path": "/docs/getting-started/tutorials/dataframe-basics",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/derived-columns",
+              "path": "/docs/getting-started/tutorials/derived-columns",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/filtering",
+              "path": "/docs/getting-started/tutorials/filtering",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/io",
+              "path": "/docs/getting-started/tutorials/io",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/plotting",
+              "path": "/docs/getting-started/tutorials/plotting",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/reshaping",
+              "path": "/docs/getting-started/tutorials/reshaping",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/statistics",
+              "path": "/docs/getting-started/tutorials/statistics",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/text-processing",
+              "path": "/docs/getting-started/tutorials/text-processing",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/tutorials/time-series",
+              "path": "/docs/getting-started/tutorials/time-series",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro"
+            },
+            {
+              "id": "release-notes",
+              "path": "/docs/release-notes"
+            },
+            {
+              "id": "user-guide",
+              "path": "/docs/user-guide"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/docs/getting-started",
+                "label": "Getting Started"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

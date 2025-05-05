@@ -1,0 +1,30 @@
+{
+  "id": "getting-started/tutorials/io",
+  "title": "How do I read and write tabular data?",
+  "description": "Learn how to import and export data in various formats with TinyFrameJS",
+  "source": "@site/docs/getting-started/tutorials/io.md",
+  "sourceDirName": "getting-started/tutorials",
+  "slug": "/getting-started/tutorials/io",
+  "permalink": "/docs/getting-started/tutorials/io",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/getting-started/tutorials/io.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "io",
+    "title": "How do I read and write tabular data?",
+    "sidebar_position": 2,
+    "description": "Learn how to import and export data in various formats with TinyFrameJS"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "DataFrame Basics",
+    "permalink": "/docs/getting-started/tutorials/dataframe-basics"
+  },
+  "next": {
+    "title": "How do I select a subset of a table?",
+    "permalink": "/docs/getting-started/tutorials/filtering"
+  }
+}
