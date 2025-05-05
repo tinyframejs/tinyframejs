@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/validateNumericArray",
+  "title": "validateNumericArray",
+  "description": "tinyframejs",
+  "source": "@site/docs/api/functions/validateNumericArray.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/validateNumericArray",
+  "permalink": "/tinyframejs/docs/api/functions/validateNumericArray",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/api/functions/validateNumericArray.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/validateColumnLengths",
+  "title": "validateColumnLengths",
+  "description": "tinyframejs",
+  "source": "@site/docs/api/functions/validateColumnLengths.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/validateColumnLengths",
+  "permalink": "/tinyframejs/docs/api/functions/validateColumnLengths",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/api/functions/validateColumnLengths.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

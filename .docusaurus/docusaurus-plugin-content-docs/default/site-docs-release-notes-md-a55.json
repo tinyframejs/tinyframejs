@@ -1,0 +1,18 @@
+{
+  "id": "release-notes",
+  "title": "Release Notes",
+  "description": "This section contains information about all TinyFrameJS releases, including new features, bug fixes, and other changes.",
+  "source": "@site/docs/release-notes.md",
+  "sourceDirName": ".",
+  "slug": "/release-notes",
+  "permalink": "/tinyframejs/docs/release-notes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/release-notes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}
