@@ -16,7 +16,7 @@ function HomepageHeader() {
     <div className="homepage-header">
       <div className="container">
         <div className="title-with-logo">
-          <img src="/img/tiny2.png" alt="TinyFrameJS Logo" className="header-logo" />
+          <img src="img/tiny.png" alt="TinyFrameJS Logo" className="header-logo" />
           <h1>{siteConfig.title}</h1>
         </div>
         <p className="subtitle">{siteConfig.tagline}</p>
@@ -28,7 +28,7 @@ function HomepageHeader() {
         </p>
         <p>
           Previous versions: see&nbsp;
-          <Link to="https://github.com/AlphaQuantJS/tinyframejs/releases">GitHub releases</Link>.
+          <Link to="https://github.com/tinyframejs/tinyframejs/releases">GitHub releases</Link>.
         </p>
 
         <div className="links">
@@ -81,13 +81,13 @@ function HomepageFeatures() {
           icon={FaChartBar}
           title={<Translate>Developer Guide</Translate>}
           description={<Translate>Saw a typo in the documentation? Want to improve existing functionalities? The contributing guidelines will guide you through the process of improving TinyFrameJS.</Translate>}
-          link="https://github.com/AlphaQuantJS/tinyframejs/blob/main/CONTRIBUTING.md"
+          link="https://github.com/tinyframejs/tinyframejs/blob/main/CONTRIBUTING.md"
         />
         <FeatureCard
           icon={FaDownload}
           title={<Translate>Binary Installers</Translate>}
           description={<Translate>Download the latest version of TinyFrameJS and its dependencies as pre-built packages for various platforms and package managers.</Translate>}
-          link="https://github.com/AlphaQuantJS/tinyframejs/releases"
+          link="https://github.com/tinyframejs/tinyframejs/releases"
         />
       </div>
     </div>
