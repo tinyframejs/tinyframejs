@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="250" viewBox="0 0 300 250">
+  <!-- Рамка -->
+  <rect x="10" y="10" width="280" height="230" fill="none" stroke="#4a4a4a" stroke-width="4"/>
+  <!-- 5 строк × 6 столбцов -->
+  <g stroke="#4a4a4a" stroke-width="2" fill="#eceef1">
+    <!-- Заголовки столбцов, светло-серый фон -->
+    <rect x="10" y="10" width="46.67" height="40"/>
+    <rect x="56.67" y="10" width="46.67" height="40"/>
+    <rect x="103.33" y="10" width="46.67" height="40"/>
+    <rect x="150" y="10" width="46.67" height="40"/>
+    <rect x="196.67" y="10" width="46.67" height="40"/>
+    <rect x="243.33" y="10" width="46.67" height="40"/>
+    <!-- Остальные ячейки -->
+    <!-- цикл строк 1–4 -->
+    <g fill="#ffffff">
+      <rect x="10" y="50" width="46.67" height="40"/>
+      <rect x="56.67" y="50" width="46.67" height="40"/>
+      <rect x="103.33" y="50" width="46.67" height="40"/>
+      <rect x="150" y="50" width="46.67" height="40"/>
+      <rect x="196.67" y="50" width="46.67" height="40"/>
+      <rect x="243.33" y="50" width="46.67" height="40"/>
+    </g>
+    <!-- повторить для y=90,130,170,210 -->
+    <g fill="#ffffff">
+      <rect x="10" y="90" width="46.67" height="40"/>
+      <rect x="56.67" y="90" width="46.67" height="40"/>
+      <rect x="103.33" y="90" width="46.67" height="40"/>
+      <rect x="150" y="90" width="46.67" height="40"/>
+      <rect x="196.67" y="90" width="46.67" height="40"/>
+      <rect x="243.33" y="90" width="46.67" height="40"/>
+    </g>
+    <g fill="#ffffff">
+      <rect x="10" y="130" width="46.67" height="40"/>
+      <rect x="56.67" y="130" width="46.67" height="40"/>
+      <rect x="103.33" y="130" width="46.67" height="40"/>
+      <rect x="150" y="130" width="46.67" height="40"/>
+      <rect x="196.67" y="130" width="46.67" height="40"/>
+      <rect x="243.33" y="130" width="46.67" height="40"/>
+    </g>
+    <g fill="#ffffff">
+      <rect x="10" y="170" width="46.67" height="40"/>
+      <rect x="56.67" y="170" width="46.67" height="40"/>
+      <rect x="103.33" y="170" width="46.67" height="40"/>
+      <rect x="150" y="170" width="46.67" height="40"/>
+      <rect x="196.67" y="170" width="46.67" height="40"/>
+      <rect x="243.33" y="170" width="46.67" height="40"/>
+    </g>
+    <g fill="#ffffff">
+      <rect x="10" y="210" width="46.67" height="40"/>
+      <rect x="56.67" y="210" width="46.67" height="40"/>
+      <rect x="103.33" y="210" width="46.67" height="40"/>
+      <rect x="150" y="210" width="46.67" height="40"/>
+      <rect x="196.67" y="210" width="46.67" height="40"/>
+      <rect x="243.33" y="210" width="46.67" height="40"/>
+    </g>
+  </g>
+  <!-- Подписи -->
+  <text x="150" y="245" text-anchor="middle" font-size="12" fill="#333">columns →</text>
+  <text x="5" y="125" text-anchor="end" font-size="12" fill="#333" transform="rotate(-90 5,125)">rows →</text>
+</svg>
