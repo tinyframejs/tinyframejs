@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktinyframejs_docs=self.webpackChunktinyframejs_docs||[]).push([[9647],{524:(e,s,r)=>{r.r(s),r.d(s,{default:()=>f});r(6672);var a=r(3526),c=r(8808),n=r(7458),t=r(4401),u=r(4272),d=r(3420);function f(e){return(0,d.jsx)(c.e3,{className:(0,a.A)(n.G.wrapper.docsPages),children:(0,d.jsx)(u.A,{children:(0,t.v)(e.route.routes)})})}}}]);
