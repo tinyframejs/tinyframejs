@@ -63,7 +63,7 @@ const config = {
         title: 'TinyFrameJS',
         logo: {
           alt: 'TinyFrameJS Logo',
-          src: 'img/docusaurus.png',
+          src: 'img/logo/tinyframe-logo.svg',
           href: '/',
           target: '_self',
         },
