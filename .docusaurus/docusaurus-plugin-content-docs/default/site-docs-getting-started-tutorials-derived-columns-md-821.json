@@ -1,0 +1,30 @@
+{
+  "id": "getting-started/tutorials/derived-columns",
+  "title": "How to create new columns derived from existing columns",
+  "description": "Learn how to create and manipulate columns in TinyFrameJS",
+  "source": "@site/docs/getting-started/tutorials/derived-columns.md",
+  "sourceDirName": "getting-started/tutorials",
+  "slug": "/getting-started/tutorials/derived-columns",
+  "permalink": "/tinyframejs/docs/getting-started/tutorials/derived-columns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/getting-started/tutorials/derived-columns.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "derived-columns",
+    "title": "How to create new columns derived from existing columns",
+    "sidebar_position": 5,
+    "description": "Learn how to create and manipulate columns in TinyFrameJS"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to create plots in TinyFrameJS?",
+    "permalink": "/tinyframejs/docs/getting-started/tutorials/plotting"
+  },
+  "next": {
+    "title": "How to calculate summary statistics",
+    "permalink": "/tinyframejs/docs/getting-started/tutorials/statistics"
+  }
+}

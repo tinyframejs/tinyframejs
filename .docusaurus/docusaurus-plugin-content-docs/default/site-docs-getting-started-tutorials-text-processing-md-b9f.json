@@ -1,0 +1,30 @@
+{
+  "id": "getting-started/tutorials/text-processing",
+  "title": "How to manipulate textual data",
+  "description": "Learn how to work with text data in TinyFrameJS",
+  "source": "@site/docs/getting-started/tutorials/text-processing.md",
+  "sourceDirName": "getting-started/tutorials",
+  "slug": "/getting-started/tutorials/text-processing",
+  "permalink": "/tinyframejs/docs/getting-started/tutorials/text-processing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/getting-started/tutorials/text-processing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "text-processing",
+    "title": "How to manipulate textual data",
+    "sidebar_position": 10,
+    "description": "Learn how to work with text data in TinyFrameJS"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to handle time series data",
+    "permalink": "/tinyframejs/docs/getting-started/tutorials/time-series"
+  },
+  "next": {
+    "title": "Comparison with R",
+    "permalink": "/tinyframejs/docs/getting-started/comparison/r"
+  }
+}
