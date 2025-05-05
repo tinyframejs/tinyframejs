@@ -1,0 +1,54 @@
+# TinyFrameJS Documentation | TinyFrameJS
+
+Skip to main content
+[TinyFrameJS](https://tinyframejs.github.io/tinyframejs/)
+[Getting Started](https://tinyframejs.github.io/tinyframejs/docs/getting-started)
+[User Guide](https://tinyframejs.github.io/tinyframejs/docs/user-guide)
+[API Reference](https://tinyframejs.github.io/tinyframejs/docs/api/README)
+[Release Notes](https://tinyframejs.github.io/tinyframejs/docs/release-notes)
+
+# TinyFrameJS
+A tiny, lightning‑fast dataframe engine for JavaScript
+Date: May 5, 2025 • Version: 1.0.0
+Download documentation: [HTML](https://tinyframejs.github.io/tinyframejs/docs/api/README)
+Previous versions: see [GitHub releases](https://github.com/tinyframejs/tinyframejs/releases).
+[Getting Started](https://tinyframejs.github.io/tinyframejs/docs/getting-started)
+[API Reference](https://tinyframejs.github.io/tinyframejs/docs/api/README)
+
+## What is TinyFrameJS?
+TinyFrameJS is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for JavaScript. It is designed to make working with structured data fast, easy, and expressive.
+TinyFrameJS is a fundamental high-level building block for doing practical, real-world data analysis in JavaScript. It is built on top of native JavaScript arrays and objects, making it fast and efficient.
+
+### Getting Started
+New to TinyFrameJS? Check out the getting started guides. They contain an introduction to TinyFrameJS' main concepts and links to additional tutorials.
+[Learn More](https://tinyframejs.github.io/tinyframejs/docs/getting-started)
+
+### API Reference
+The reference guide contains a detailed description of the TinyFrameJS API. The reference describes how the methods work and which parameters can be used.
+[Learn More](https://tinyframejs.github.io/tinyframejs/docs/api/README)
+
+### Developer Guide
+Saw a typo in the documentation? Want to improve existing functionalities? The contributing guidelines will guide you through the process of improving TinyFrameJS.
+[Learn More](https://github.com/tinyframejs/tinyframejs/blob/main/CONTRIBUTING.md)
+
+### Binary Installers
+Download the latest version of TinyFrameJS and its dependencies as pre-built packages for various platforms and package managers.
+[Learn More](https://github.com/tinyframejs/tinyframejs/releases)
+- [Getting Started](https://tinyframejs.github.io/tinyframejs/docs/getting-started)
+- [User Guide](https://tinyframejs.github.io/tinyframejs/docs/user-guide)
+- [API Reference](https://tinyframejs.github.io/tinyframejs/docs/api/README)
+[Getting Started](https://tinyframejs.github.io/tinyframejs/docs/getting-started)
+[User Guide](https://tinyframejs.github.io/tinyframejs/docs/user-guide)
+[API Reference](https://tinyframejs.github.io/tinyframejs/docs/api/README)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/tinyframejs)
+- [Discord](https://discord.gg/tinyframejs)
+- [Twitter](https://twitter.com/tinyframejs)
+[Stack Overflow](https://stackoverflow.com/questions/tagged/tinyframejs)
+[Discord](https://discord.gg/tinyframejs)
+[Twitter](https://twitter.com/tinyframejs)
+- [GitHub](https://github.com/tinyframejs/tinyframejs)
+- [Release Notes](https://tinyframejs.github.io/tinyframejs/docs/release-notes)
+- [Contribute](https://github.com/tinyframejs/tinyframejs/blob/main/CONTRIBUTING.md)
+[GitHub](https://github.com/tinyframejs/tinyframejs)
+[Release Notes](https://tinyframejs.github.io/tinyframejs/docs/release-notes)
+[Contribute](https://github.com/tinyframejs/tinyframejs/blob/main/CONTRIBUTING.md)
