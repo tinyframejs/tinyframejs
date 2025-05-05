@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/count",
+  "title": "count",
+  "description": "tinyframejs",
+  "source": "@site/docs/api/functions/count.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/count",
+  "permalink": "/docs/api/functions/count",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/api/functions/count.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

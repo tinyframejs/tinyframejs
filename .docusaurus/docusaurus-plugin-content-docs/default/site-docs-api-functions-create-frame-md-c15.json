@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/createFrame",
+  "title": "createFrame",
+  "description": "tinyframejs",
+  "source": "@site/docs/api/functions/createFrame.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/createFrame",
+  "permalink": "/docs/api/functions/createFrame",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/api/functions/createFrame.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

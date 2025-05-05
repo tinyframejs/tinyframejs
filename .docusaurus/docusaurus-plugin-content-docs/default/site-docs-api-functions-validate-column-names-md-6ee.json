@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/validateColumnNames",
+  "title": "validateColumnNames",
+  "description": "tinyframejs",
+  "source": "@site/docs/api/functions/validateColumnNames.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/validateColumnNames",
+  "permalink": "/docs/api/functions/validateColumnNames",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/api/functions/validateColumnNames.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

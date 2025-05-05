@@ -1,0 +1,15 @@
+{
+  "id": "api/functions/arrayToFrame",
+  "title": "arrayToFrame",
+  "description": "tinyframejs",
+  "source": "@site/docs/api/functions/arrayToFrame.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/arrayToFrame",
+  "permalink": "/docs/api/functions/arrayToFrame",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tinyframejs/tinyframejs/edit/main/docs/api/functions/arrayToFrame.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
