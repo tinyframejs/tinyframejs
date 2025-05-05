@@ -90,35 +90,35 @@ df
 
 <div className="tutorial-card">
 <h3>What kind of data does TinyFrameJS handle?</h3>
-<img src="/tinyframejs/img/gs-data-table.svg" alt="Data table" />
+<img src="/img/gs-data-table.svg" alt="Data table" />
 <p>TinyFrameJS reads JavaScript arrays / objects and turns them into a <strong>DataFrame</strong> — a table with labelled columns and automatic dtype inference.</p>
 <Link className="button button--primary button--sm" to="/docs/intro#dataframe-basics">Go to intro tutorial</Link>
 </div>
 
 <div className="tutorial-card">
 <h3>How do I read and write tabular data?</h3>
-<img src="/tinyframejs/img/gs-io.svg" alt="I/O formats" />
+<img src="/img/gs-io.svg" alt="I/O formats" />
 <p>Use <strong><code>readCsv</code></strong>, <strong><code>readJson</code></strong>, <strong><code>readSql</code></strong> & friends to import, or the matching <code>to*</code> methods to export (CSV, JSON, Arrow, Parquet soon).</p>
 <Link className="button button--primary button--sm" to="/docs/guide/io">Learn I/O</Link>
 </div>
 
 <div className="tutorial-card">
 <h3>How do I select a subset of a table?</h3>
-<img src="/tinyframejs/img/gs-subset.svg" alt="Subset rows" />
+<img src="/img/gs-subset.svg" alt="Subset rows" />
 <p><code>df.filter(row => …)</code> for boolean masks, <code>df.select(['colA','colB'])</code> for column projection, and SQL‑like <code>df.query()</code> for complex conditions.</p>
 <Link className="button button--primary button--sm" to="/docs/guide/chaining#filter-select">Filter & select</Link>
 </div>
 
 <div className="tutorial-card">
 <h3>How to create plots in TinyFrameJS?</h3>
-<img src="/tinyframejs/img/gs-plot.svg" alt="Plots" />
+<img src="/img/gs-plot.svg" alt="Plots" />
 <p><code>df.plot.scatter('x','y')</code> uses lightweight <a href="https://www.chartjs.org/">Chart.js</a> under the hood. No heavy python stacks involved!</p>
 <Link className="button button--primary button--sm" to="/docs/guide/visual">Plotting</Link>
 </div>
 
 <div className="tutorial-card">
 <h3>How to manipulate and reshape tables?</h3>
-<img src="/tinyframejs/img/gs-reshape.svg" alt="Reshape tables" />
+<img src="/img/gs-reshape.svg" alt="Reshape tables" />
 <p>With TinyFrameJS you can:</p>
 <ul>
 <li>Add new columns with <code>df.assign()</code></li>
@@ -132,14 +132,14 @@ df
 
 <div className="tutorial-card">
 <h3>How to join and merge datasets?</h3>
-<img src="/tinyframejs/img/gs-join.svg" alt="Join datasets" />
+<img src="/img/gs-join.svg" alt="Join datasets" />
 <p>Use <code>df1.join(df2, 'key')</code> for SQL-like joins, or <code>df1.concat(df2)</code> to stack tables vertically. Supports inner, left, right, and outer joins.</p>
 <Link className="button button--primary button--sm" to="/docs/guide/merge">Join & merge</Link>
 </div>
 
 <div className="tutorial-card">
 <h3>How to optimize performance?</h3>
-<img src="/tinyframejs/img/gs-performance.svg" alt="Performance" />
+<img src="/img/gs-performance.svg" alt="Performance" />
 <p>TinyFrameJS is already fast, but you can make it even faster with typed columns, lazy evaluation, and parallel processing.</p>
 <Link className="button button--primary button--sm" to="/docs/guide/performance">Performance tips</Link>
 </div>

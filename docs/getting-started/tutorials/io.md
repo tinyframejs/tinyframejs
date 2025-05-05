@@ -10,7 +10,7 @@ description: Learn how to import and export data in various formats with TinyFra
 TinyFrameJS provides a variety of functions for reading data from different sources and writing data to different formats. This section covers the most common input/output operations.
 
 <div align="center">
-  <img src="/tinyframejs/img/io.png" alt="TinyFrameJS I/O Operations" width="25%" />
+  <img src="/img/io.png" alt="TinyFrameJS I/O Operations" width="25%" />
 </div>
 
 ## Reading Data
