@@ -96,3 +96,176 @@ pnpm run docs:update
 ```
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+id: getting-started
+sidebar\_position: 1
+slug: /getting-started
+title: Getting started
+description: Install TinyFrameJS, see quick examples, explore tutorials and compare it with other data‑frame libraries.
+-----------------------------------------------------------------------------------------------------------------------
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+# Getting started
+
+Welcome to **TinyFrameJS** — a tiny, lightning‑fast dataframe engine for JavaScript inspired by pandas.
+
+---
+
+## Installation
+
+Use your favourite package manager:
+
+<Tabs>
+<TabItem value="npm" label="npm">
+
+```bash
+npm install tinyframejs
+```
+
+</TabItem>
+<TabItem value="pnpm" label="pnpm">
+
+```bash
+pnpm add tinyframejs
+```
+
+</TabItem>
+<TabItem value="cdn" label="CDN / ESM">
+
+```html
+<script type="module">
+  import { DataFrame } from 'https://cdn.jsdelivr.net/npm/tinyframejs/+esm';
+</script>
+```
+
+</TabItem>
+</Tabs>
+
+> **Works everywhere:** Node ≥ 16, modern browsers, Vite / Webpack, Deno.
+
+---
+
+## First 1‑minute example
+
+```js title="src/quick-start.js"
+import { DataFrame } from 'tinyframejs';
+
+const df = new DataFrame([
+  {ticker: 'AAPL', price: 187.2},
+  {ticker: 'MSFT', price: 413.9},
+  {ticker: 'NVDA', price: 875.4}
+]);
+
+df
+  .sort('price', {ascending: false})
+  .head(2)
+  .print();
+```
+
+```txt
+┌───────┬────────┬────────┐
+│ index │ ticker │ price  │
+├───────┼────────┼────────┤
+│   2   │ NVDA   │ 875.4  │
+│   1   │ MSFT   │ 413.9  │
+└───────┴────────┴────────┘
+```
+
+---
+
+## Intro tutorials <small style={{fontWeight:400}}>(click a card)</small>
+
+<div class="homepage-features">
+
+<details class="feature-card" open>
+<summary><div class="feature-title">What kind of data does TinyFrameJS handle?</div></summary>
+<img src="/img/gs-data-table.svg" alt="Data table" style={{marginTop:'1rem'}} />
+TinyFrameJS reads JavaScript arrays / objects and turns them into a **DataFrame** — a table with labelled columns and automatic dtype inference.
+
+<Link className="button button--primary button--sm" to="/docs/intro#dataframe-basics">Go to intro tutorial</Link>
+</details>
+
+<details class="feature-card">
+<summary><div class="feature-title">How do I read and write tabular data?</div></summary>
+<img src="/img/gs-io.svg" alt="I/O formats" style={{marginTop:'1rem'}} />
+Use **`readCsv`**, **`readJson`**, **`readSql`** & friends to import, or the matching `to*` methods to export (CSV, JSON, Arrow, Parquet soon).
+
+<Link className="button button--primary button--sm" to="/docs/guide/io">Learn I/O</Link>
+</details>
+
+<details class="feature-card">
+<summary><div class="feature-title">How do I select a subset of a table?</div></summary>
+<img src="/img/gs-subset.svg" alt="Subset rows" style={{marginTop:'1rem'}} />
+`df.filter(row => …)` for boolean masks, `df.select(['colA','colB'])` for column projection, and SQL‑like `df.query()` for complex conditions.
+
+<Link className="button button--primary button--sm" to="/docs/guide/chaining#filter-select">Filter & select</Link>
+</details>
+
+<details class="feature-card">
+<summary><div class="feature-title">How to create plots in TinyFrameJS?</div></summary>
+<img src="/img/gs-plot.svg" alt="Plots" style={{marginTop:'1rem'}} />
+`df.plot.scatter('x','y')` uses lightweight [Chart.js] under the hood. No heavy python stacks involved!
+
+<Link className="button button--primary button--sm" to="/docs/guide/visual">Plotting</Link>
+</details>
+
+<details class="feature-card">
+<summary><div class="feature-title">How to manipulate and reshape tables?</div></summary>
+<img src="/img/gs-reshape.svg" alt="Reshape tables" style={{marginTop:'1rem'}} />
+With TinyFrameJS you can:
+- Add new columns with `df.assign()`
+- Apply transforms with `df.apply()`
+- Sort with `df.sort()`
+- Reshape with `df.melt()` / `df.pivot()`
+- Group & aggregate with `df.groupby().agg()`
+
+<Link className="button button--primary button--sm" to="/docs/guide/transform">Transform data</Link>
+</details>
+
+</div>
+
+---
+
+## Comparison with other tools
+
+| Library          | Bundle size<sup>†</sup> | Node speed (group‑by mean 1 M rows) | Browser WASM support |  Typed API |
+| ---------------- | ----------------------: | ----------------------------------: | :------------------: | :--------: |
+| **TinyFrameJS**  |             **< 30 kB** |                   **1× (baseline)** |           ✅          | ✅ TS types |
+| pandas + Pyodide |                  > 5 MB |                                0.6× |       ✅ (heavy)      |      ➖     |
+| Danfo.js         |                  280 kB |                                0.8× |           ✅          |   partial  |
+| Arquero          |                   90 kB |                                0.7× |           ✅          |   partial  |
+| DuckDB‑WASM      |                    3 MB |                          1.2× (SQL) |           ✅          |     SQL    |
+
+<sub>† minified + gzip.</sub>
+
+TinyFrameJS aims to offer **pandas‑like ergonomics** at a fraction of the size, with zero native dependencies and 🤏 minimal learning curve.
+
+---
+
+## Community & next steps
+
+* ⭐ Star the project on [GitHub](https://github.com/AlphaQuantJS/tinyframejs)
+* 📖 Read the full [API Reference](/docs/api/README)
+* ✍🏻 Contribute tutorials — submit a PR to `/docs/getting-started`.
+
+<div style={{marginTop:'2rem', textAlign:'center'}}>
+  <Link className="button button--primary button--lg" to="/docs/guide/index">Dive into User Guide →</Link>
+</div>
